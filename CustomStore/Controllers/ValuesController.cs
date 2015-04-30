@@ -7,6 +7,7 @@ using System.Web.Http;
 
 namespace CustomStore.Controllers
 {
+    //Commenting this section in order to see whats up!
     public class ValuesController : ApiController
     {
         // GET api/values
